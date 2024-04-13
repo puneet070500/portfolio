@@ -1,7 +1,6 @@
 import "./footer.css";
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
-import { BsMedium } from "react-icons/bs";
 
 const Footer = () => {
   return (
@@ -25,14 +24,11 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/thakshila-bandara-2791b9214">
+        <a href="https://www.linkedin.com/in/puneet-patel-5a99b9181">
           <BsLinkedin />
         </a>
-        <a href="https://github.com/Thakshila-Bandara">
+        <a href="https://github.com/puneet070500">
           <BsGithub />
-        </a>
-        <a href="https://medium.com/@thakshiladb2000">
-          <BsMedium />
         </a>
       </div>
 

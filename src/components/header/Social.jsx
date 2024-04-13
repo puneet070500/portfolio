@@ -1,30 +1,22 @@
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
-import { BsMedium } from "react-icons/bs";
 
 const Social = () => {
   return (
     <div className="header__socials">
       <a
-        href="https://www.linkedin.com/in/thakshila-bandara-2791b9214"
+        href="https://www.linkedin.com/in/puneet-patel-5a99b9181"
         target="_blank"
         rel="noreferrer"
       >
         <BsLinkedin />
       </a>
       <a
-        href="https://github.com/Thakshila-Bandara"
+        href="https://github.com/puneet070500"
         target="_blank"
         rel="noreferrer"
       >
         <BsGithub />
-      </a>
-      <a
-        href="https://medium.com/@thakshiladb2000"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <BsMedium />
       </a>
     </div>
   );
