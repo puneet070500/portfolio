@@ -1,16 +1,18 @@
 nav{
 
-    background: rgba(0, 0, 0, 0.3);
-    width: max-content; /*get the width of it's content*/
+    background: rgba(0, 0, 0, 0.2);
+    width: 100%; 
     display: block;
-    padding: 0.7rem 1.7rem;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 3rem;
     z-index: 2;
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 2rem;
     display: flex;
-    gap: 0.8rem;
+    gap: 7rem;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
     
@@ -23,13 +25,13 @@ nav a{
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
-    font-size: 1.1rem;
+    font-size: 1.4rem;
    
 }
 
 nav a:hover{
 
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 nav a.active{

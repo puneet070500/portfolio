@@ -34,14 +34,38 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm a <b>Mechanical Engineering Gradute</b> at the Lakshmi Narain
-            College Of Technology. I'm an enthusiastic and driven Software
-            Engineering student seeking a challenging internship opportunity to
-            apply and expand my technical skills. With a strong academic
-            foundation and hands-on experience in various programming languages,
-            I am eager to contribute to innovative projects and learn from
-            experienced professionals in the industry. I am a quick learner who
-            is always ready to face challenges.
+            Hey there! I'm <b>Puneet</b>, a dynamic mechanical engineering
+            student with a passion for technology and software development.
+            Blending my expertise in engineering with my proficiency in Python,
+            Java, and the MERN stack, I'm on a mission to carve a niche for
+            myself in the software industry.
+          </p>
+          <p>
+            With a solid foundation in mechanical engineering principles, I
+            bring a unique perspective to software development, combining
+            analytical thinking with innovative problem-solving skills. My
+            journey into the world of programming began with Python and Java,
+            where I quickly grasped the fundamentals and delved into creating
+            efficient and scalable solutions.
+          </p>
+          <p>
+            However, my curiosity didn't stop there. Eager to broaden my skill
+            set, I immersed myself in the MERN stack, mastering technologies
+            like MongoDB, Express.js, React.js, and Node.js. This expanded
+            toolkit not only allowed me to build dynamic web applications but
+            also opened up new avenues for collaboration and creativity.
+          </p>
+          <p>
+            Beyond my academic and technical pursuits, I'm deeply passionate
+            about turning ideas into reality through hands-on projects. From
+            conceptualization to execution, I revel in the process of bringing
+            concepts to life and iterating until perfection is achieved.
+          </p>
+          <p>
+            As I embark on this exhilarating journey, I'm eager to connect with
+            like-minded individuals and organizations that share my enthusiasm
+            for technology and innovation. Let's collaborate and create
+            something extraordinary together!
           </p>
         </div>
       </div>
